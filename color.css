@@ -1,0 +1,113 @@
+body {
+	background-color: #FFFFFF;
+	color: #000000
+}
+#wrapper{
+		margin-left: auto;
+		margin-right: auto;
+		min-width: 960px;
+		max-width: 2048px;
+		width: 95%;
+		box-shadow: 5px 5px 5px #013220;
+		background-image: linear-gradient(to bottom, #FFFFFF, #dcf5c3)
+}
+header {
+		background-color: #964B00;
+		color: #FFFF00;
+		text-align: center;
+}
+
+nav{
+		background-image: linear-gradient(to bottom, #013220, #dcf5c3);
+		height: 100em;
+		font-size: 40px;
+		height: 800px;
+		float: left;
+		padding: 1em;
+		width: 100px;
+}
+nav ul {
+		list-style-type: none;
+		margin: 0;
+		padding-left: 0px;
+		text-decoration: none;
+		color: #000000
+		
+}
+
+main {
+	margin-left: 90px;
+}
+h2{
+		color: #964B00;
+}
+footer {
+		text-align: center;
+		padding: 2em;
+}
+
+.barber {
+		color: #FFFF00;
+}
+#homie {
+	background-position: center;
+	height:500px;
+	background-repeat: no-repeat;
+	background-size: 50% 60%;
+}
+#cutie {
+	background-position: 300px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: 60% 80%;
+}
+#pricies {
+	background-position: 300px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: 60% 80%;
+}
+#indent {
+		margin-left: 150px;
+}
+b {
+	background-position: center;
+}
+table {
+		border: 3.5px solid #013220;
+		border-collapse: collapse;
+}
+td {
+	padding: .75em;
+	border: 2px solid #013220;
+	text-align: center;
+}
+th {
+	padding: 0.75em;
+	border: #013220;
+}
+tr:nth-of-type(odd) {
+					background-color: darkolivegreen;
+}
+label {
+		float: left;
+		display: block;
+		width: 180px;
+		padding-right: 10px;
+		padding-left: 10px;
+}
+input {
+		display: block;
+		margin-bottom: 20px;
+}
+textarea {
+		display: block;
+		margin-bottom: 20px;
+}
+input[type="submit"]{
+					margin-left: 340px;
+}
+#bundle {
+		text-indent: 185px;
+		color: crimson;
+}
